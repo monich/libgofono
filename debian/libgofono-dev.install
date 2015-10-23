@@ -1,3 +1,0 @@
-debian/tmp/usr/lib/libgofono.so usr/lib
-include/*.h usr/include/gofono
-build/libgofono.pc usr/lib/pkgconfig
